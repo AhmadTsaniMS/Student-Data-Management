@@ -1,5 +1,8 @@
 # Student Data Management with Singly Linked List (C Language)
 
+![GitHub repo size](https://img.shields.io/github/repo-size/ahmadtsanims/Student-Data-Management?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/ahmadtsanims/Student-Data-Management?style=for-the-badge)
+
 Program berbasis *Command Line Interface* (CLI) ini dibuat menggunakan bahasa C untuk mengelola data mahasiswa. Program ini mengimplementasikan struktur data **Singly Linked List** untuk menyimpan data secara dinamis dan algoritma **Bubble Sort** untuk mengurutkan data berdasarkan IPK tertinggi tanpa merusak urutan asli pada linked list.
 
 ## 🚀 Fitur Utama
